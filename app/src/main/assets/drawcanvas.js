@@ -13,9 +13,9 @@ let mouseDown = false
 let lightBG = false
 let bgFillStyle = "rgba(0,0,0,0.05)"
 const nP = 1000
-const dt = 0.7
+const dt = 1.0
 const du = 0.1
-const dthmax=0.2
+const dthmax=0.26
 const edgeWidth = 0.2
 
 function toggleBG() {
